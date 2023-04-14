@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+.bg-PEACH {
+  background-color: #FFE5B4;
+}
+
 /* Contacto */
 
 #Contacto form label {
